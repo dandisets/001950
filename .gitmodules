@@ -1,0 +1,36 @@
+[submodule "behavior_754898_2025-01-01_20-40-03_combined.nwb.zarr"]
+	path = behavior_754898_2025-01-01_20-40-03_combined.nwb.zarr
+	url = https://github.com/dandizarrs/61abe432-50e6-4e6f-8eb8-69370273900a
+	datalad-id = fe62402f-06e2-452d-8cad-b15b08b12969
+[submodule "behavior_754897_2025-03-13_11-20-42_combined.nwb.zarr"]
+	path = behavior_754897_2025-03-13_11-20-42_combined.nwb.zarr
+	url = https://github.com/dandizarrs/536d3b99-96e9-49c7-8d25-68791194ebe3
+	datalad-id = d57a5c83-b1ed-40d3-a8e5-156ced614919
+[submodule "behavior_749472_2025-01-09_13-56-02_combined.nwb.zarr"]
+	path = behavior_749472_2025-01-09_13-56-02_combined.nwb.zarr
+	url = https://github.com/dandizarrs/0b42e688-0dd8-48cc-b8de-31c3bf56cfa9
+	datalad-id = a4581d7a-3684-408e-b9af-d06a0d4cb2a9
+[submodule "behavior_754896_2025-01-03_17-20-19_combined.nwb.zarr"]
+	path = behavior_754896_2025-01-03_17-20-19_combined.nwb.zarr
+	url = https://github.com/dandizarrs/4b567b99-4bfc-492e-8810-4d4345f8328d
+	datalad-id = c28b895b-dbc6-471c-af38-0dee4b5f1e5e
+[submodule "behavior_754897_2025-03-12_12-23-15_combined.nwb.zarr"]
+	path = behavior_754897_2025-03-12_12-23-15_combined.nwb.zarr
+	url = https://github.com/dandizarrs/3a87a26f-ebfe-4f4c-a0c4-456d5da707f4
+	datalad-id = 5560a317-e52b-4a5a-83be-81c77b7b9b7b
+[submodule "behavior_781166_2025-05-13_14-04-27_combined.nwb.zarr"]
+	path = behavior_781166_2025-05-13_14-04-27_combined.nwb.zarr
+	url = https://github.com/dandizarrs/cc664afe-5d3e-4960-829b-197fabeffade
+	datalad-id = a7087940-0d37-42ef-bea5-75a178d3b832
+[submodule "behavior_ZS059_2021-04-29_14-02-45_combined.nwb.zarr"]
+	path = behavior_ZS059_2021-04-29_14-02-45_combined.nwb.zarr
+	url = https://github.com/dandizarrs/fc1cb7e5-015d-4b31-a20b-8c772080b776
+	datalad-id = b40700ee-5093-46f8-ae8f-c2da2ae9f023
+[submodule "behavior_ZS061_2021-04-08_18-01-30_combined.nwb.zarr"]
+	path = behavior_ZS061_2021-04-08_18-01-30_combined.nwb.zarr
+	url = https://github.com/dandizarrs/b82193a4-52a0-4fdc-a16f-5c12c0e88415
+	datalad-id = 670e78a5-5ecc-4546-b6a8-59324a623891
+[submodule "behavior_ZS062_2021-05-06_15-46-14_combined.nwb.zarr"]
+	path = behavior_ZS062_2021-05-06_15-46-14_combined.nwb.zarr
+	url = https://github.com/dandizarrs/c576ea02-ca99-4940-91c9-fce4add708b0
+	datalad-id = ca597d08-40de-4e02-ac3e-362fddeb5679
