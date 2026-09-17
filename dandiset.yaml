@@ -14,9 +14,14 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 163985468
+  numberOfFiles: 6
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Su, Zhixiao; Kosillo, Polina; Jung, Kanghoon; Chen, Shuonan; Summers, Mathew
   T; Piet, Alex; Hou, Han; Hagihara, Kenta M; Friedmann, Drew; Ho-Shing, Olivia; Becker,
   Matthew I; Chartrand, Thomas; Grotz, Peter; Hilton-VanOsdall, Ella; Lee, Margaret;
@@ -633,6 +638,12 @@ relatedResource:
   resourceType: dcite:Other
   schemaKey: Resource
   url: https://github.com/AllenNeuralDynamics/LC-beh-physiology-analysis/
+- identifier: Topographic structure and function of locus coeruleus noradrenaline
+    neurons
+  relation: dcite:IsPublishedIn
+  resourceType: dcite:PeerReview
+  schemaKey: Resource
+  url: https://www.nature.com/articles/s41586-026-11026-0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
