@@ -57,7 +57,7 @@ citation: Su, Zhixiao; Kosillo, Polina; Jung, Kanghoon; Chen, Shuonan; Summers, 
   Chen, Xiaoyin; Siegle, Joshua H; Glaser, Adam K; Lee, Brian R; Svoboda, Karel; Isogai,
   Yoh; Chandrashekar, Jayaram V; Cohen, Jeremiah Y (2026) Allen Institute - Locus
   coeruleus norepinephrine activity during dynamic foraging - Electrophysiology and
-  fiber photometry (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001950/draft
+  fiber photometry (Version 0.260928.2230) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001950/0.260928.2230
 contributor:
 - affiliation:
   - identifier: https://ror.org/03cpe7c52
@@ -616,6 +616,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2026-08-17T22:13:52.764766+00:00'
+datePublished: '2026-09-28T22:30:37.115501+00:00'
 description: This Dandiset contains electrophysiology and fiber photometry recordings
   of the locus coeruleus norepinephrine (LC-NE) system in mice performing a dynamic
   foraging task. Electrophysiology sessions contain single-neuron recordings from
@@ -629,8 +630,9 @@ description: This Dandiset contains electrophysiology and fiber photometry recor
   of locus coeruleus noradrenaline neurons neurons*. Analysis code, including examples
   of how the data are loaded, processed, and used for analyses in the manuscript,
   is available in the associated GitHub repository. (https://github.com/AllenNeuralDynamics/LC-beh-physiology-analysis/tree/main)
+doi: 10.48324/dandi.001950/0.260928.2230
 ethicsApproval: []
-id: DANDI:001950/draft
+id: DANDI:001950/0.260928.2230
 identifier: DANDI:001950
 keywords:
 - 'norepinephrine '
@@ -639,7 +641,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001950/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001950/0.260928.2230/assets.yaml
 name: Allen Institute - Locus coeruleus norepinephrine activity during dynamic foraging
   - Electrophysiology and fiber photometry
 protocol:
@@ -648,6 +650,18 @@ protocol:
 - https://dx.doi.org/10.17504/protocols.io.6qpvr3dqovmk/v1
 - https://dx.doi.org/10.17504/protocols.io.261ge39edl47/v2
 protocols: []
+publishedBy:
+  endDate: '2026-09-28T22:30:37.115501+00:00'
+  id: urn:uuid:fadee1f1-1463-43b5-969b-4f78845b3146
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-09-28T22:30:37.115501+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:2f9cc163-94a1-4a5f-be8c-9225b677cbdd
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: Topographic structure and function of locus coeruleus norepinephrine
     neurons
@@ -667,11 +681,12 @@ relatedResource:
   resourceType: dcite:PeerReview
   schemaKey: Resource
   url: https://www.nature.com/articles/s41586-026-11026-0
+releaseNotes: Initial release.
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
 studyTarget:
 - locus coeruleus
-url: https://dandiarchive.org/dandiset/001950/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001950/0.260928.2230
+version: 0.260928.2230
 wasGeneratedBy: []
