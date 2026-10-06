@@ -17,10 +17,6 @@ assetsSummary:
   approach:
   - name: electrophysiological approach
     schemaKey: ApproachType
-  - name: behavioral approach
-    schemaKey: ApproachType
-  - name: fiber photometry approach
-    schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
@@ -30,12 +26,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  - name: behavioral technique
-    schemaKey: MeasurementTechniqueType
-  - name: fiber photometry
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 44821174897
-  numberOfFiles: 385
+  numberOfBytes: 44812489634
+  numberOfFiles: 378
   numberOfSubjects: 42
   schemaKey: AssetsSummary
   species:
